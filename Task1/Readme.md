@@ -1,5 +1,3 @@
----
-
 # 📊 Exploratory Data Analysis (EDA) Report
 
 This repository contains basic exploratory data analysis performed on two datasets:
@@ -8,8 +6,6 @@ This repository contains basic exploratory data analysis performed on two datase
 2. **Students Performance Dataset**
 
 The goal of this analysis is to understand the structure, quality, and machine learning suitability of the datasets before model building.
-
----
 
 ## 1. Loading and Inspecting the Dataset
 
