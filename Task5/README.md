@@ -150,5 +150,3 @@ scikit-learn
 ```
 
 ---
-
-*Generated from the analysis in `eda&preprocess.ipynb`*
